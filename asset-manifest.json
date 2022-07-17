@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/manipulator/static/css/main.abd64e84.css",
+    "main.js": "/manipulator/static/js/main.37a2105f.js",
+    "static/js/787.a1a4384b.chunk.js": "/manipulator/static/js/787.a1a4384b.chunk.js",
+    "index.html": "/manipulator/index.html",
+    "main.abd64e84.css.map": "/manipulator/static/css/main.abd64e84.css.map",
+    "main.37a2105f.js.map": "/manipulator/static/js/main.37a2105f.js.map",
+    "787.a1a4384b.chunk.js.map": "/manipulator/static/js/787.a1a4384b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.37a2105f.js"
+  ]
+}
